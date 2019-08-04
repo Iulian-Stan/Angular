@@ -1,5 +1,5 @@
 # Angular Webpack Starter
-Sample [Angular 6](https://angular.io) application using [Webpack 4](https://webpack.js.org) for builds.
+Sample [Angular 8](https://angular.io) application using [Webpack 4](https://webpack.js.org) for builds.
 
 ## Quick start
 
